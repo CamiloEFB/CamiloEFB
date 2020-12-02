@@ -78,5 +78,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/camilo-figueroa-a741111b5/
+[linkedin]: https://www.linkedin.com/in/camilo-figueroa-bueno-a741111b5/
 
