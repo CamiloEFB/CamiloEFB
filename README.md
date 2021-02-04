@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on projects  related to data science
 - 🌱 I’m currently learning Data science
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ---
 
