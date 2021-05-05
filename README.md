@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a biotechnology engineer that want to be a data scientist!
+## I'm a data scientist!
 
 - 🔭 I’m currently working on projects  related to data science
 - 🌱 I’m currently learning Data science
