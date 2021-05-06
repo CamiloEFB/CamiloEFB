@@ -54,13 +54,7 @@
 ---
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="CamiloEFB's Github Stats" src="https://github-readme-stats-xi-six.vercel.app
-/api?username=CamiloEFB&show_icons=true&hide_border=true" />
-
-</details>
 
 
 
