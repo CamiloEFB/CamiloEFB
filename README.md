@@ -5,7 +5,7 @@
 ## I'm a data scientist!
 
 - 🔭 I’m currently working on projects  related to data science
-- 🌱 I’m currently learning Deep learning
+- 🌱 I’m currently learning MLOps
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
 ---
