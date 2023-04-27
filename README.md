@@ -64,10 +64,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloEFB&layout=compact)](https://github.com/CamiloEFB/github-readme-stats)
 
 
-
-
-
-
 <br />
 <br />
 <br />
