@@ -63,8 +63,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloEFB&layout=compact)](https://github.com/CamiloEFB/github-readme-stats)
 
-
-<br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/camilo-figueroa-bueno-a741111b5/
