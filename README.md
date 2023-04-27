@@ -1,4 +1,4 @@
-### Hi there, I'm Camilo Figueroa 👋
+### Hi there, I'm Camilo  👋
 
 ---
 
@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on projects  related to data science
 - 🌱 I’m currently learning MLOps
 - 🥅 2023 Goals: Contribute more to Open Source projects
+- :speech_balloon:I am fluent in: Spanish and English
 
 ---
 
