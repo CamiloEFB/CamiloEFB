@@ -15,7 +15,10 @@
 
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ <a href="https://www.linkedin.com/in/camilo-figueroa-bueno-a741111b5/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-camilo_figueroa_bueno-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilo-figueroa-bueno-a741111b5//" style="filter: hue-rotate(200deg) saturate(200%);">
+</a>
+ <a href="mailto:camilo.figueroa.2011@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-camilo.figueroa.2011@gmail.com-eb4336?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilo.figueroa.2011@gmail.com"></a>
 
 
 <br />
