@@ -1,6 +1,4 @@
-### Hi there, I'm Camilo  👋
-
----
+## Hi there, I'm Camilo  👋
 
 ## I'm a data scientist!
 
