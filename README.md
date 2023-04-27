@@ -21,6 +21,17 @@
 
 <br />
 
+
+---
+![CamiloEFB GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloEFB&show_icons=true&bg_color=00000000)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloEFB&layout=compact)](https://github.com/CamiloEFB/github-readme-stats)
+
+
+
+
 ---
 ### Languages and Tools:
 
@@ -55,17 +66,6 @@
 <br />
 <br />
 <br />
-
----
-![CamiloEFB GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloEFB&show_icons=true&bg_color=00000000)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloEFB&layout=compact)](https://github.com/CamiloEFB/github-readme-stats)
-
-
-
-
 
 
 [linkedin]: https://www.linkedin.com/in/camilo-figueroa-bueno-a741111b5/
